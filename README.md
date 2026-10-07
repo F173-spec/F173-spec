@@ -71,7 +71,7 @@ Java - Spring Boot - React
 
 ---
 
-### 💻 [appsmart](https://github.com/F173-spec/CRM-palteforme)
+### 💻 [CRM-plateforme](https://github.com/F173-spec/CRM-palteforme)
 
 Module CRM intégré à KSS-FX permettant de centraliser les informations clients et de suivre les interactions liées aux opérations de change.
 
