@@ -44,21 +44,30 @@ I'm a Software Engineering student passionate about building modern and scalable
 
 ## 🚀 Featured Projects
 
-### 🎫 Ticketflow
+### 🎫 [Ticketflow](https://github.com/F173-spec/ticketflow)
 
 Microservices-based ticket management application built with Spring Boot.
 
 **Technologies:**  
-Java • Spring Boot • REST API • Maven • Docker • PostgreSQL
+Java • Spring Boot • REST API • Maven • Docker
 
 ---
 
-### 📱 SmartApp
+### 📱 [SmartApp](https://github.com/F173-spec/SmartApp)
 
 Full-Stack application focused on modern web development.
 
 **Technologies:**  
 React • TypeScript • Spring Boot
+
+---
+
+### 💻 [appsmart](https://github.com/F173-spec/appsmart)
+
+Application project developed as part of my Full-Stack development journey.
+
+**Technologies:**  
+Java • Spring Boot • React
 
 ---
 
