@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Yassine Hailoul
 
-<!--
-**F173-spec/F173-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building modern and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Software Engineering Student  
+💻 Full-Stack Developer  
+🚀 React • TypeScript • Java • Spring Boot  
+🔎 Looking for a PFE internship starting February 2027
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- HTML5 / CSS3
+
+### Backend
+
+- Java
+- Spring Boot
+- REST APIs
+- Spring Data JPA
+
+### Database
+
+- PostgreSQL
+- MySQL
+
+### DevOps & Tools
+
+- Git
+- GitHub
+- Docker
+- Maven
+- IntelliJ IDEA
+
+---
+
+## 🚀 Featured Projects
+
+### 🎫 Ticketflow
+
+Microservices-based ticket management application built with Spring Boot.
+
+**Technologies:**  
+Java • Spring Boot • REST API • Maven • Docker • PostgreSQL
+
+---
+
+### 📱 SmartApp
+
+Full-Stack application focused on modern web development.
+
+**Technologies:**  
+React • TypeScript • Spring Boot
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn: [Yassine Hailoul](https://www.linkedin.com/in/yassine-hailoul-a47221250/)
+
+📧 Email: yassinehailoul35@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects.
