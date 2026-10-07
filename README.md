@@ -78,6 +78,12 @@ Module CRM intégré à KSS-FX permettant de centraliser les informations client
 **Technologies:**
 React - TypeScript - Node Js 
 
+### 💻 [Plateforme -BNX-change](https://github.com/F173-spec/Plateforme -BNX-change)
+Plateforme de gestion et de suivi des opérations de change 
+
+**Technologies:**
+React - TypeScript - Vite - REST API NestJS - Prisma ORM - PostgreSQL
+
 ## 📫 Contact
 
 💼 LinkedIn: [Yassine Hailoul](https://www.linkedin.com/in/yassine-hailoul-a47221250/)
