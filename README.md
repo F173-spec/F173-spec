@@ -49,7 +49,7 @@ I'm a Software Engineering student passionate about building modern and scalable
 Microservices-based ticket management application built with Spring Boot.
 
 **Technologies:**  
-Java • Spring Boot • REST API • Maven • Docker
+Java - Spring Boot - REST API - Maven - Docker
 
 ---
 
@@ -58,7 +58,7 @@ Java • Spring Boot • REST API • Maven • Docker
 Full-Stack application focused on modern web development.
 
 **Technologies:**  
-React • TypeScript • Spring Boot
+React - TypeScript - Spring Boot
 
 ---
 
@@ -67,9 +67,16 @@ React • TypeScript • Spring Boot
 Application project developed as part of my Full-Stack development journey.
 
 **Technologies:**  
-Java • Spring Boot • React
+Java - Spring Boot - React
 
 ---
+
+### 💻 [appsmart](https://github.com/F173-spec/CRM-palteforme)
+
+Module CRM intégré à KSS-FX permettant de centraliser les informations clients et de suivre les interactions liées aux opérations de change.
+
+**Technologies:**
+React - TypeScript - Node Js 
 
 ## 📫 Contact
 
